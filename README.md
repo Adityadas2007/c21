@@ -1,2 +1,2 @@
-# c21
-function width arguments
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
